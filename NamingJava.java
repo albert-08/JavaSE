@@ -11,7 +11,7 @@ public class NamingJava {
     System.out.println(celphone);
     System.out.println(celPhone);
 
-    String $countryName = "Colombia";
+    String $countryName = "Mexico";
     String _backgroundColor = "Green";
 
     String currency$ = "MXN";
